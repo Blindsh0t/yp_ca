@@ -1,7 +1,12 @@
 # Yellowpages Canada Scraper
-[Scrape] (https://www.yellowpages.ca/) City wise and also Categorically.
+[Scrape](https://www.yellowpages.ca/)
+
+City wise and also Categorically.
+
 No of cities was 249.
+
 Range of pages scaned per city was 8.
+
 Saving data in CSV
 
 ## Info
