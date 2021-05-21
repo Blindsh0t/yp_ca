@@ -1,0 +1,249 @@
+Abbotsford
+Airdrie
+Aklavik
+Amherst
+Antigonish
+Arviat
+Baker Lake
+Bathurst
+Bay Chimo
+Beauport
+Beaver Creek
+Bedeque
+Bedford
+Bonne Bay Pond
+Brampton
+Brandon
+Bridgewater
+Buena Vista
+Burlington
+Burnaby
+Burwash Landing
+Calgary
+Cambridge Bay
+Cambridge
+Campbellton
+Camrose
+Cape Dorset
+Carbonear
+Carcross
+Cardigan
+Carmacks
+Cartier
+Casa Rio
+Central Bedeque
+Charlesbourg
+Charlottetown
+Chicoutimi
+Chilliwack
+Clarenville
+Cold Lake
+Coleman
+Colville Lake
+Conception Bay South
+Coquitlam
+Coral Harbour
+Cormack
+Corman Park
+Corner Brook
+Cornwall
+Courtenay
+Dartmouth
+Dauphin
+Dawson
+Deer Lake
+Deer Valley
+Delta
+Destruction Bay
+Dieppe
+Drummondville
+East St Paul
+Eastern Passage
+Edmonton
+Edmundston
+Emerald Park
+Enterprise
+Estevan
+Etobicoke
+Faro
+Flatrock
+Flin Flon
+Fort Good Hope
+Fort McMurray
+Fort McPherson
+Fort Providence
+Fort Resolution
+Fort Saskatchewan
+Fort Simpson
+Fort Smith
+Fredericton
+Furdale
+Gander
+Gatineau
+Glace Bay
+Goulds
+Grand Bay-Westfield
+Grand Falls
+Grand Falls-Windsor
+Grand-Barachois
+Grande Prairie
+Grande-Digue
+Grasswood
+Haines Junction
+Halifax
+Hamilton
+Hammonds Plains
+Hay River
+Headingley
+High River
+Holman
+Hunter River
+Inuvik
+Iqaluit
+Jonquiere
+Kamloops
+Kelowna
+Kensington
+Kentville
+Kimmirut
+Kindersley
+Kippens
+Kitchener
+Kugluktuk
+Labrador City
+Lacombe
+Langley
+Laval
+Leduc
+Lethbridge
+Lloydminster
+Lloydminster
+Lockport
+London
+Longueuil
+Lower Sackville
+Lutselk'e
+Maple Ridge
+Markham
+Marsh Lake
+Mayo
+Meadow Lake
+Medicine Hat
+Memramcook
+Miramichi
+Mississauga
+Mitchell
+Moncton
+Montague
+Montreal
+Moose Jaw
+Morden
+Morell
+Mount Pearl
+Mount Stewart
+Nanaimo
+Nanisivik
+Nepean
+New Glasgow
+New Glasgow
+New Waterford
+Norman Wells
+North Battleford
+North Sydney
+North Vancouver
+North York
+Oakbank
+Oakville
+Old Crow
+Olds
+Oromocto
+Oshawa
+Ottawa
+Paradise
+Pelly Crossing
+Port Borden
+Port Coquitlam
+Port Hawkesbury
+Portage la Prairie
+Portugal Cove-St Philips
+Prince Albert
+Prince George
+Quebec
+Quispamsis
+Rae Edzo
+Rae Lakes
+Rankin Inlet
+Red Deer
+Regina
+Reidville
+Repentigny
+Richmond Hill
+Richmond
+Richmond
+Riverside Estates
+Riverview
+Ross River
+Rothesay
+Sackville
+Saint John
+Saint-Hubert
+Saint-Hyacinthe
+Saint-Jean-Sur-Richelieu
+Saint-Jerome
+Saint-Laurent
+Sainte-Foy
+Sanikiluaq
+Saskatoon
+Scarborough
+Selkirk
+Sherbrooke
+Sherwood Park
+Souris
+Spruce Grove
+St Adolphe
+St Albert
+St Andrews
+St Catharines
+St Francois Xavier
+St Stephen
+St-Peters Bay
+St. John's
+Ste Anne
+Stephenville
+Stratford
+Summerside
+Surrey
+Swift Current
+Sydney Mines
+Sydney
+Taber
+Tagish
+Terrebonne
+Teslin
+Thompson
+Thunder Bay
+Tignish
+Torbay
+Toronto
+Trois-Rivieres
+Truro
+Tsiigehtchic
+Tuktoyaktuk
+Tulita
+Vancouver
+Vernon
+Victoria
+Watson Lake
+Wellington Station
+West St Paul
+West Vancouver
+Weyburn
+Whitehorse
+Windsor
+Winkler
+Winnipeg
+Wolfville
+Woodstock
+Yarmouth
+Yellowknife
+Yorkton
